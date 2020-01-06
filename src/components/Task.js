@@ -1,15 +1,17 @@
 import React from 'react';
 
-const Task = () => {
+const Task = ({task}) => {
     return (
         <li className="list-item">
-            <span>Task Tiltle</span>
-            <button className="btn-delete task-btn">
-                Delete
-            </button>
-            <button className="btn-delete task-btn">
-                Edit
-            </button>
+            <span> {task.title} </span>
+            <div>
+                <button className="btn-delete task-btn">
+                    Delete
+                </button>
+                <button className="btn-delete task-btn">
+                    Edit
+                </button>
+            </div>
         </li>
     );
 };

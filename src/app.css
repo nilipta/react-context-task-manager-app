@@ -127,7 +127,9 @@
   cursor: pointer;
   background-color: transparent;
   border: none;
-  outline: none;
+  outline: aqua;
+  padding-left: 5px;
+  color: chartreuse;
 }
 
 .btn-delete i {
