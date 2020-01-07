@@ -19,3 +19,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 # Add Task working
 #
 ![Add Task screenshot](./public/004.png)
+
+# 
+# clear and delete funcional
+#
+![Add Task screenshot](./public/005.png)
