@@ -24,3 +24,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 # clear and delete funcional
 #
 ![Add Task screenshot](./public/005.png)
+
+# 
+# Edit & find the task
+#
+![Add Task screenshot](./public/006.png)
